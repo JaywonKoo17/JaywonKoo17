@@ -3,7 +3,7 @@
 
 <div align=center>
 	
-[![HitCount](http://hits.dwyl.com/Jaywon Koo/JaywonKoo17.svg)](http://hits.dwyl.com/Jaywon Koo/JaywonKoo17)
+[![HitCount](http://hits.dwyl.com/Jaywon/JaywonKoo17.svg)](http://hits.dwyl.com/Jaywon/JaywonKoo17)
 	
 </div>
 
